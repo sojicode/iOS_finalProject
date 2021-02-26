@@ -2,7 +2,7 @@
 //  Top5RatingTableViewController.swift
 //  Beautifly
 //
-//  Created by Hirunya Hirunsirisombut on 3/2/2563 BE.
+//  Created by Sojeong Yang on 3/2/2563 BE.
 //  Copyright © 2563 BE DePaul University. All rights reserved.
 //
 
