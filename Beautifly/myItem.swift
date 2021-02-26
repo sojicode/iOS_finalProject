@@ -2,7 +2,7 @@
 //  myItem.swift
 //  Beautifly
 //
-//  Created by Amy Aumpansub on 3/1/20.
+//  Created by Sojeong Yang on 3/1/20.
 //  Copyright © 2020 DePaul University. All rights reserved.
 //
 
