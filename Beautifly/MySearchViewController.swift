@@ -2,7 +2,7 @@
 //  MySearchViewController.swift
 //  Beautifly
 //
-//  Created by Amy Aumpansub on 2/29/20.
+//  Created by Sojeong Yang on 2/29/20.
 //  Copyright © 2020 DePaul University. All rights reserved.
 //
 
